@@ -6,6 +6,11 @@ img{
     width: auto;
 }
 
-h1{
-    font: 100;
+h1.nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: center;
+    font-size: large;
 }
