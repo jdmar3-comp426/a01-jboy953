@@ -13,5 +13,16 @@ h1.nav{
 
 p{
     text-align: center;
-    font: Sans-serif;
+    font-family: Arial;
+}
+#welcome{
+    font-size: 300%;
+}
+a:hover{
+    background-color: #f0ffff;
+}
+
+iframe{
+    width: 500px;
+    height: 300px;
 }
