@@ -1,0 +1,41 @@
+body{
+    background-color: #008b8b;
+}
+
+img{
+    width: auto;
+    border-radius: 10%;
+}
+
+h1.nav{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+    text-align: center;
+    font-family: Arial;
+}
+#source{
+    text-align: left;
+}
+#welcome{
+    font-size: 300%;
+}
+a:hover{
+    background-color: #f0ffff;
+}
+
+iframe{
+    width: 500px;
+    height: 300px;
+    
+}
+a:visited{
+    color: rgb(94, 36, 15);
+}
+a:link{
+    color:coral;
+}
+div h1{
+    font-size: 200%;
+}
